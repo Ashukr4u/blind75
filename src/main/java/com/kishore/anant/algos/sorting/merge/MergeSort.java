@@ -1,7 +1,5 @@
-package com.kishore.anant.algos.sorting;
+package com.kishore.anant.algos.sorting.merge;
 
-import java.lang.reflect.Array;
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class MergeSort {
