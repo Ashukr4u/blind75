@@ -1,4 +1,4 @@
-package com.kishore.anant.blind75.binary;
+package com.kishore.anant.algos.sorting.quick;
 
 public class KthLargestElementInArray {
 
